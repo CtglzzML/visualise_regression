@@ -19,8 +19,6 @@ visualise_regression/
 └── README.md
 ```
 
-## How to run
-
 1. Make sure you have Python installed with the following libraries:
    - pandas
    - numpy
